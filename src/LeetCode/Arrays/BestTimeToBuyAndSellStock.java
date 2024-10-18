@@ -1,4 +1,4 @@
-package Arrays;
+package LeetCode.Arrays;
 
 public class BestTimeToBuyAndSellStock {
     public int maxProfit(int[] prices) {

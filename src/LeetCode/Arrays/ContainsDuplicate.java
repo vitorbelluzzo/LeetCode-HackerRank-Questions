@@ -1,7 +1,5 @@
-package Arrays;
+package LeetCode.Arrays;
 
-import java.util.Arrays;
-import java.util.HashMap;
 import java.util.HashSet;
 
 public class ContainsDuplicate {

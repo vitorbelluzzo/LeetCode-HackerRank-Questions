@@ -1,6 +1,4 @@
-package Arrays;
-
-import java.util.Arrays;
+package LeetCode.Arrays;
 
 public class MergeStringsAlternately {
     public String mergeAlternately(String word1, String word2) {
